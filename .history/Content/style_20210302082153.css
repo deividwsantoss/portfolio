@@ -196,7 +196,7 @@ section .title::after{
 }
 .home .home-content a{
     display: inline-block;
-    background: rgb(66, 137, 184);
+    background: crimson;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
@@ -367,7 +367,7 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .php::before{
-    width: 85%;
+    width: 50%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
