@@ -1,0 +1,9 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "Deivid Santos Portfolio",
+  "main": "index.js",
+  "repository": "https://github.com/deividwsantoss/portfolio.git",
+  "author": "Deivid Santos <deivid.w.santos@gmail.com>",
+  "license": "MIT"
+}
